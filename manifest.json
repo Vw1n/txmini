@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Mohit's Extension",
+  "name": "Demo",
   "version": "1.0",
-  "description": "Use the action icon or keyboard shortcut to open the side panel on google.com",
+  "description": "todolist chrome demo",
   "background": {
         "service_worker": "service-worker.js"
     },
