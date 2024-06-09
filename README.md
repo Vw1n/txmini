@@ -5,8 +5,8 @@
     具体效果是一个简单的todolist小用户界面
     
     没有存储效果，关闭页面后内容会清空
-   ![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/Vw1n/txmini/blob/main/picture/1.jpg))
-   ![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/Vw1n/txmini/blob/main/picture/2.jpg))
+   ![image](https://github.com/Vw1n/txmini/blob/main/picture/1.jpg)
+   ![image](https://github.com/Vw1n/txmini/blob/main/picture/2.jpg)
 # 使用说明
 
 - 打开Chrome 扩展程序管理界面
