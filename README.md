@@ -14,3 +14,6 @@
 - 点击加载已解压的扩展程序
 - 将解压好的文件夹导入
 
+# 说明
+改自很久之前之间做的一个 web 版的 todolist
+[https://gitee.com/vw1n/the-first-warehouse-of-vw1n]
